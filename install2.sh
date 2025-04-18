@@ -2,6 +2,10 @@
 
 set -eu
 
+sudo apt-get install dkms
+sudo apt-get install curl
+sudo apt-get install cabextract
+
 if [ "$(id -u)" -ne 0 ]; then
     echo 'This script must be run as root!' >&2
     exit 1
