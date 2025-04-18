@@ -14,6 +14,8 @@ this is not mine. i take no credit.
 
 have made some tweaks and modifications to the code.
 
+no longer do you have to install firmware, just run install2.sh. it will complete.
+
 `xone` is a Linux kernel driver for Xbox One and Xbox Series X|S accessories. It serves as a modern replacement for `xpad`, aiming to be compatible with Microsoft's *Game Input Protocol* (GIP).
 
 ## Compatibility
@@ -93,11 +95,13 @@ sudo ./install2.sh
 
 **NOTE:** You can use the `--release` flag to disable debug logging.
 
+## NO LONGER NEEDED STEP BELOW ##
 4. Download the firmware for the wireless dongle:
 
 ```
 sudo xone-get-firmware.sh
 ```
+## NO LONGER NEEDED STEP ABOVE ##
 
 **NOTE:** The `--skip-disclaimer` flag might be useful for scripting purposes.
 
