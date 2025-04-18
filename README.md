@@ -88,7 +88,7 @@ git clone https://github.com/AirysDark/xone-retropie.git
 
 ```
 cd xone-retropie
-sudo ./install.sh
+sudo ./install2.sh
 ```
 
 **NOTE:** You can use the `--release` flag to disable debug logging.
