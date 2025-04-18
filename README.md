@@ -8,7 +8,9 @@
     <a href="https://www.paypal.com/donate?hosted_button_id=BWUECKFDNY446"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="Donate Button"></a>
 </p>
 
-this is not mine. i take no credit. (https://github.com/medusalix/xone)
+this is not mine. i take no credit. 
+
+(https://github.com/medusalix/xone)
 
 have made some tweaks and modifications to the code.
 
