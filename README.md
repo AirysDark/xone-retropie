@@ -8,6 +8,10 @@
     <a href="https://www.paypal.com/donate?hosted_button_id=BWUECKFDNY446"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="Donate Button"></a>
 </p>
 
+this is not mine. i take no credit. (https://github.com/medusalix/xone)
+
+have made some tweaks and modifications to the code.
+
 `xone` is a Linux kernel driver for Xbox One and Xbox Series X|S accessories. It serves as a modern replacement for `xpad`, aiming to be compatible with Microsoft's *Game Input Protocol* (GIP).
 
 ## Compatibility
