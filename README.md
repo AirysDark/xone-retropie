@@ -1,3 +1,4 @@
+## RUN AS ROOT USER ##
 <p align="center">
     <img src="logo.svg" alt="Logo" width="200">
 </p>
