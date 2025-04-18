@@ -81,13 +81,13 @@ Any issues regarding the packaging should be reported to the respective maintain
 2. Clone the repository:
 
 ```
-git clone https://github.com/medusalix/xone
+git clone https://github.com/AirysDark/xone-retropie.git
 ```
 
 3. Install `xone`:
 
 ```
-cd xone
+cd xone-retropie
 sudo ./install.sh
 ```
 
